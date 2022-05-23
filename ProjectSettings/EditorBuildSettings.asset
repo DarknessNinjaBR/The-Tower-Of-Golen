@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 176c7750871f86a46a0be7a8dfb761ef
+  - enabled: 1
+    path: Assets/Scenes/CutsceneInicio.unity
+    guid: 248aa697f002f8a44ad847ba15171c92
+  - enabled: 1
+    path: Assets/Scenes/Andar 1.unity
+    guid: 2e91138c4a98e6348a4fcdfc7c81f1cc
+  - enabled: 1
+    path: Assets/Scenes/Andar 1 Vitoria.unity
+    guid: f012e9aa433e8dc4cb3ad1d35bbfe82d
+  - enabled: 1
+    path: Assets/Scenes/Andar 2.unity
+    guid: cec93458ed7ad31418a915037c320bad
+  - enabled: 1
+    path: Assets/Scenes/Andar 2 Vitoria.unity
+    guid: e6afa4f31b698ee4bbccba7f6ff56254
+  - enabled: 1
+    path: Assets/Scenes/Andar 3.unity
+    guid: 225be30ca5682d6419b952bbdcb3b0e0
+  - enabled: 1
+    path: Assets/Scenes/Andar 3 Vitoria.unity
+    guid: 94f38223815370044a7b2cee767bca08
+  - enabled: 1
+    path: Assets/Scenes/Andar 4.unity
+    guid: f28d2693ab906f7409da64247e2974f6
+  - enabled: 1
+    path: Assets/Scenes/Andar 4 Vitoria.unity
+    guid: 213cac9087d8b42478f5a027999f11b9
+  - enabled: 1
+    path: Assets/Scenes/Andar 5.unity
+    guid: c87b6fc088ba11e4c8f721c7619e1c4c
+  - enabled: 1
+    path: Assets/Scenes/Andar 5 Vitoria.unity
+    guid: c0e98cdfab7c66745884fe2708a47f43
+  - enabled: 1
+    path: Assets/Scenes/Andar 6.unity
+    guid: a642bfb42d068b04db384b5136ebf9e0
+  - enabled: 1
+    path: Assets/Scenes/CutsceneFim.unity
+    guid: 3a782e46d9c93054487b979f7d303d7a
+  m_configObjects: {}
